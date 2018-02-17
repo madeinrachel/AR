@@ -1,0 +1,7 @@
+*.log
+*.py[cod]
+
+Temp/
+Obj/
+Library/
+UnityGenerated/
